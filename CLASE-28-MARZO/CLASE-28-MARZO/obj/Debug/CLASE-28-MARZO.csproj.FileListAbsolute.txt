@@ -1,0 +1,8 @@
+C:\Users\Lab3\Documents\Visual Studio 2013\Projects\CLASE-28-MARZO\CLASE-28-MARZO\bin\Debug\CLASE-28-MARZO.exe.config
+C:\Users\Lab3\Documents\Visual Studio 2013\Projects\CLASE-28-MARZO\CLASE-28-MARZO\bin\Debug\CLASE-28-MARZO.exe
+C:\Users\Lab3\Documents\Visual Studio 2013\Projects\CLASE-28-MARZO\CLASE-28-MARZO\bin\Debug\CLASE-28-MARZO.pdb
+C:\Users\Lab3\Documents\Visual Studio 2013\Projects\CLASE-28-MARZO\CLASE-28-MARZO\obj\Debug\CLASE_28_MARZO.Form1.resources
+C:\Users\Lab3\Documents\Visual Studio 2013\Projects\CLASE-28-MARZO\CLASE-28-MARZO\obj\Debug\CLASE_28_MARZO.Properties.Resources.resources
+C:\Users\Lab3\Documents\Visual Studio 2013\Projects\CLASE-28-MARZO\CLASE-28-MARZO\obj\Debug\CLASE-28-MARZO.csproj.GenerateResource.Cache
+C:\Users\Lab3\Documents\Visual Studio 2013\Projects\CLASE-28-MARZO\CLASE-28-MARZO\obj\Debug\CLASE-28-MARZO.exe
+C:\Users\Lab3\Documents\Visual Studio 2013\Projects\CLASE-28-MARZO\CLASE-28-MARZO\obj\Debug\CLASE-28-MARZO.pdb
